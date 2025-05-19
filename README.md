@@ -1,3 +1,3 @@
 # Referencia munkáim
 
-Ezen a felületen, általam elkészített kapcsolásokat és kész nyák tervezeteket töltöttem fel. Különboző projectek, ami vagy saját kisebb problémák automatizálására vagy javításokból adódott. 
+Ezen a felületen, általam elkészített kapcsolásokat és kész nyák terveket töltöttem fel. Különboző projectek, ami vagy saját problémák automatizálására vagy javításokból adódott. 
