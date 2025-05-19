@@ -1,3 +1,4 @@
-# Referencia munkáim
+# Dokumentációval, jegyzőkönyvel rendelkező munkáim
 
-Szakmai ismereteim bemutatásához az eddigi publikálható munkahelyi projectjeim itt találhatóak meg. Felhasználásuk csak szerzői engedéllyel lehetséges. 
+ 1. Szabaduló szoba játékelem tervezés
+
