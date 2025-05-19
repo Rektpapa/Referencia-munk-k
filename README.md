@@ -13,5 +13,5 @@ Negyedik félévemet zártam, Automiatizációs specializáció szakon, épület
   XC programmer, Siemnes LOGO!
   
 #
-Szakmai ismereteim bemutatásához az eddigi publikálható munkahelyi projectjeim a branches fül alatt találhatóak meg. 
+Szakmai ismereteim bemutatásához branches fül alatt kiválasztva találhatóak meg.
 # Felhasználásuk csak szerzői engedéllyel lehetséges. 
