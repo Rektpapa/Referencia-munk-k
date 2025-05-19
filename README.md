@@ -1,4 +1,3 @@
 # Dokumentációval, jegyzőkönyvel rendelkező munkáim
 
- 1. Szabaduló szoba játékelem tervezés
-
+Az alábbi felületen publikálható munkáim elérhetőek, ami komolyabb adminisztációs és dokumentálást igényelt. Leírást önmagukban tartalmaznak
