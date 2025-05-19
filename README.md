@@ -1,3 +1,3 @@
-# Referencia munkáim
+# Tudományos Diákköri Konferencia 2023
 
-Szakmai ismereteim bemutatásához az eddigi publikálható munkahelyi projectjeim itt találhatóak meg. Felhasználásuk csak szerzői engedéllyel lehetséges. 
+Az egyetemi tanulmányaim megkezdésével jelentkezünk egy mobil robot labirintus versenyre. A koncepciónk annyira jó lett, hogy tanári ösztönzésre beneveztünk a TDK-ra is. A dolgozat témája, a robot megépítése, fejlesztésének története és a felmerülő problémák. A labirintus versenyen elindultunk, ahol helyezést nem értünk el, ellenben a dolgozatunkkal második helyezettek lettünk és tovább jutottunk az országos versenyre. A robotban az elektronika tervezését vállaltam el, ahol az alsó NYÁK és a BMS tervezését vállaltam el.
