@@ -13,5 +13,5 @@ Negyedik félévemet zártam, Automatika szakon, épület és automatizációs r
   XC programmer, Siemnes LOGO!
   
 #
-Szakmai ismereteim bemutatásához branches fül alatt kiválasztva találhatóak meg.
+Szakmai ismereteim bemutatásához branches fül alatt kiválasztva minden megtalálható.
 # Felhasználásuk csak szerzői engedéllyel lehetséges. 
