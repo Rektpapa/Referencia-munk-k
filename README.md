@@ -7,11 +7,24 @@ Hatodik félévemben vagyok nappalis hallgato Automatika programozható rendszer
 
   # Program ismereteim
 
-  Altium designer; EasyEDA,
-  Optimiser Superviser; Care; Honeywell EBI R400, R600, R700; R2025
-  XC-ONE programmer; Siemens Portal V15.1; Siemnes LOGO!
-  
-  
+Programozhato_ismereteim(void)
+{
+CX-ONE programmer &&  Siemens TIA Portal V15.1 &&  Siemens LOGO!;
+}
+
+epuletautomatika_ismereteim(void)
+{
+ Optimiser Superviser && Care  && Honeywell EBI R400,R600,R700 &&  R2025;
+} 
+
+for(int i; Beágyazott szakterület>0;i++)
+{
+  Altium designer && EasyEDA && AVR C && C = program_ismeret ;
+} 
+
+
+
+
 #
 Szakmai ismereteim bemutatásához branches fül alatt kiválasztva minden megtalálható.
 # Felhasználásuk csak szerzői engedéllyel lehetséges. 
