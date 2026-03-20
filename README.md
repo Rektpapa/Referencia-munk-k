@@ -11,9 +11,9 @@ Programozható Irányítási rendszerek:
 CX-ONE programmer ,  Siemens TIA Portal V15.1,  Siemens LOGO!
 
 Epületautomatika:
- Optimiser Superviser , Care  ,  Honeywell EBI R400,R600,R700 ,  R2025  
+Optimiser Superviser , Care  ,  Honeywell EBI R400,R600,R700 ,  R2025  
 
-Beágyazott Rendszerek
+Beágyazott Rendszerek:
   Altium designer , EasyEDA , AVR C , C 
 
 
