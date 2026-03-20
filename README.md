@@ -7,20 +7,14 @@ Hatodik félévemben vagyok nappalis hallgato Automatika programozható rendszer
 
   # Program ismereteim
 
-Programozhato_ismereteim(void)
-{
-CX-ONE programmer &&  Siemens TIA Portal V15.1 &&  Siemens LOGO!;
-}
+Programozható Irányítási rendszerek:
+CX-ONE programmer ,  Siemens TIA Portal V15.1,  Siemens LOGO!
 
-epuletautomatika_ismereteim(void)
-{
- Optimiser Superviser && Care  && Honeywell EBI R400,R600,R700 &&  R2025;
-} 
+Epületautomatika:
+ Optimiser Superviser , Care  ,  Honeywell EBI R400,R600,R700 ,  R2025  
 
-for(int i; Beágyazott szakterület>0;i++)
-{
-  Altium designer && EasyEDA && AVR C && C = program_ismeret ;
-} 
+Beágyazott Rendszerek
+  Altium designer , EasyEDA , AVR C , C 
 
 
 
